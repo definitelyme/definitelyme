@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there 👋 Welcome to my GitHub! I'm Brendan Ejike, Mobile Application Developer
+## Hi 👋 Welcome to my GitHub! I'm Brendan Ejike, Mobile Application Developer
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/justbrendaan?style=social)
