@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### aboutMe.dart
 
 ```dart
-const amado = {
+const about = {
     pronouns: "he" | "him",
     code: ["Java", "Kotlin", "Dart", "Vue.js", "JavaScript", "PHP"],
     askMeAbout: ["Android/iOS", "tech", "opensource", "books", "coffee"],
