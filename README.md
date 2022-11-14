@@ -20,7 +20,7 @@ Mobile Application Developer
 ----------------------------
 
 *   🌍  I'm based in Lagos, Nigeria
-*   ✉️  You can contact me at [ejike.br@gmail.com](mailto:hi@justbrendan.me)
+*   ✉️  You can contact me at [hi@justbrendan.me](mailto:hi@justbrendan.me)
 
 ### Skills 
 <p align="left">
